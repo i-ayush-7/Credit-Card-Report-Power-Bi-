@@ -10,7 +10,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 4.  Import Sql database to Power Bi.
 
 ## Credit Card Dashboard:
-![Dashboard]()
+![Dashboard](Credit Card Report.pdf)
 
 ## Customers Dashboard:
 ![Dashboard]()
