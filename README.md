@@ -13,7 +13,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ![Dashboard](https://github.com/i-ayush-7/Credit-Card-Report-Power-Bi-/blob/main/Credit%20Card%20Dashboard.png)
 
 ## Customers Dashboard:
-![Dashboard]()
+![Dashboard](https://github.com/i-ayush-7/Credit-Card-Report-Power-Bi-/blob/main/Customers%20Dashboard.png)
 
 ## Project Insights- Week 53 (31st Dec)
 ### Week over Week change:
